@@ -1,0 +1,207 @@
+Calculando similitud...
+
+N.  Termino              TF         IDF        TF-IDF    
+
+1   aromas               1.0        0.523      0.523     
+2   include              1.0        1.0        1.0       
+3   tropical             1.0        1.0        1.0       
+4   fruit,               1.0        0.699      0.699     
+5   broom,               1.0        1.0        1.0       
+6   brimstone            1.0        1.0        1.0       
+7   dried                1.301      0.523      0.68      
+8   herb.                1.0        1.0        1.0       
+9   palate               1.0        0.699      0.699     
+10  overly               1.0        1.0        1.0       
+11  expressive,          1.0        1.0        1.0       
+12  offering             1.0        1.0        1.0       
+13  unripened            1.0        1.0        1.0       
+14  apple,               1.0        1.0        1.0       
+15  citrus               1.0        1.0        1.0       
+16  sage                 1.0        1.0        1.0       
+17  brisk                1.0        1.0        1.0       
+18  acidity.             1.0        0.523      0.523     
+
+N.  Termino              TF         IDF        TF-IDF    
+
+1   acidity.             1.0        0.523      0.523     
+2   ripe                 1.0        1.0        1.0       
+3   fruity,              1.0        1.0        1.0       
+4   wine                 1.0        0.523      0.523     
+5   smooth               1.0        1.0        1.0       
+6   structured.          1.0        1.0        1.0       
+7   firm                 1.0        0.699      0.699     
+8   tannins              1.0        1.0        1.0       
+9   filled               1.0        1.0        1.0       
+10  juicy                1.0        1.0        1.0       
+11  berry                1.0        1.0        1.0       
+12  fruits               1.0        0.699      0.699     
+13  freshened            1.0        1.0        1.0       
+14  drinkable,           1.0        1.0        1.0       
+15  2016.                1.0        1.0        1.0       
+
+N.  Termino              TF         IDF        TF-IDF    
+
+1   wine                 1.0        0.523      0.523     
+2   tart                 1.0        1.0        1.0       
+3   snappy,              1.0        1.0        1.0       
+4   flavors              1.0        0.523      0.523     
+5   lime                 1.0        1.0        1.0       
+6   flesh                1.0        1.0        1.0       
+7   rind                 1.0        1.0        1.0       
+8   dominate.            1.0        1.0        1.0       
+9   green                1.0        0.699      0.699     
+10  pineapple            1.0        0.699      0.699     
+11  pokes                1.0        1.0        1.0       
+12  through,             1.0        1.0        1.0       
+13  crisp                1.0        0.699      0.699     
+14  acidity              1.0        0.398      0.398     
+15  underscoring         1.0        1.0        1.0       
+16  flavors.             1.0        1.0        1.0       
+17  stainless-steel      1.0        1.0        1.0       
+18  fermented.           1.0        1.0        1.0       
+
+N.  Termino              TF         IDF        TF-IDF    
+
+1   palate               1.0        0.699      0.699     
+2   pineapple            1.0        0.699      0.699     
+3   rind,                1.0        1.0        1.0       
+4   lemon                1.0        1.0        1.0       
+5   pith                 1.0        1.0        1.0       
+6   orange               1.0        1.0        1.0       
+7   blossom              1.0        1.0        1.0       
+8   start                1.0        1.0        1.0       
+9   aromas.              1.0        1.0        1.0       
+10  bit                  1.0        1.0        1.0       
+11  opulent,             1.0        1.0        1.0       
+12  notes                1.0        0.699      0.699     
+13  honey-drizzled       1.0        1.0        1.0       
+14  guava                1.0        1.0        1.0       
+15  mango                1.0        1.0        1.0       
+16  giving               1.0        1.0        1.0       
+17  slightly             1.0        1.0        1.0       
+18  astringent,          1.0        1.0        1.0       
+19  semidry              1.0        1.0        1.0       
+20  finish.              1.0        1.0        1.0       
+
+N.  Termino              TF         IDF        TF-IDF    
+
+1   regular              1.0        1.0        1.0       
+2   bottling             1.0        1.0        1.0       
+3   2012,                1.0        1.0        1.0       
+4   tannic,              1.0        1.0        1.0       
+5   rustic,              1.0        1.0        1.0       
+6   earthy,              1.0        1.0        1.0       
+7   herbal               1.0        0.699      0.699     
+8   characteristics.     1.0        1.0        1.0       
+9   nonetheless,         1.0        1.0        1.0       
+10  pleasantly           1.0        1.0        1.0       
+11  unfussy              1.0        1.0        1.0       
+12  country              1.0        1.0        1.0       
+13  wine,                1.0        1.0        1.0       
+14  good                 1.0        1.0        1.0       
+15  companion            1.0        1.0        1.0       
+16  hearty               1.0        1.0        1.0       
+17  winter               1.0        1.0        1.0       
+18  stew.                1.0        1.0        1.0       
+
+N.  Termino              TF         IDF        TF-IDF    
+
+1   aromas               1.0        0.523      0.523     
+2   fruit,               1.0        0.699      0.699     
+3   acidity.             1.0        0.523      0.523     
+4   flavors              1.0        0.523      0.523     
+5   green                1.0        0.699      0.699     
+6   herbal               1.0        0.699      0.699     
+7   blackberry           1.0        1.0        1.0       
+8   raspberry            1.0        1.0        1.0       
+9   show                 1.0        1.0        1.0       
+10  typical              1.0        1.0        1.0       
+11  navarran             1.0        1.0        1.0       
+12  whiff                1.0        1.0        1.0       
+13  herbs                1.0        1.0        1.0       
+14  and,                 1.0        1.0        1.0       
+15  case,                1.0        1.0        1.0       
+16  horseradish.         1.0        1.0        1.0       
+17  mouth,               1.0        1.0        1.0       
+18  bodied,              1.0        1.0        1.0       
+19  tomatoey             1.0        1.0        1.0       
+20  spicy,               1.0        1.0        1.0       
+21  complement           1.0        1.0        1.0       
+22  dark                 1.0        1.0        1.0       
+23  plum                 1.0        1.0        1.0       
+24  finish               1.0        1.0        1.0       
+25  fresh                1.0        0.523      0.523     
+26  grabby.              1.0        1.0        1.0       
+
+N.  Termino              TF         IDF        TF-IDF    
+
+1   aromas               1.0        0.523      0.523     
+2   acidity              1.0        0.398      0.398     
+3   fresh                1.0        0.523      0.523     
+4   bright,              1.0        1.0        1.0       
+5   informal             1.0        1.0        1.0       
+6   opens                1.0        1.0        1.0       
+7   candied              1.0        1.0        1.0       
+8   berry,               1.0        1.0        1.0       
+9   white                1.0        1.0        1.0       
+10  pepper               1.0        1.0        1.0       
+11  savory               1.0        0.699      0.699     
+12  herb                 1.0        1.0        1.0       
+13  carry                1.0        1.0        1.0       
+14  palate.              1.0        1.0        1.0       
+15  balanced             1.0        0.523      0.523     
+16  soft                 1.0        1.0        1.0       
+17  tannins.             1.0        1.0        1.0       
+
+N.  Termino              TF         IDF        TF-IDF    
+
+1   wine                 1.0        0.523      0.523     
+2   firm                 1.0        0.699      0.699     
+3   acidity              1.0        0.398      0.398     
+4   balanced             1.0        0.523      0.523     
+5   dry                  1.0        0.699      0.699     
+6   restrained           1.0        1.0        1.0       
+7   offers               1.0        1.0        1.0       
+8   spice                1.0        1.0        1.0       
+9   profusion.           1.0        1.0        1.0       
+10  texture,             1.0        1.0        1.0       
+11  food.                1.0        1.0        1.0       
+
+N.  Termino              TF         IDF        TF-IDF    
+
+1   dried                1.0        0.523      0.523     
+2   flavors              1.0        0.523      0.523     
+3   notes                1.0        0.699      0.699     
+4   savory               1.0        0.699      0.699     
+5   thyme                1.0        1.0        1.0       
+6   accent               1.0        1.0        1.0       
+7   sunnier              1.0        1.0        1.0       
+8   preserved            1.0        1.0        1.0       
+9   peach                1.0        1.0        1.0       
+10  brisk,               1.0        1.0        1.0       
+11  off-dry              1.0        1.0        1.0       
+12  wine.                1.0        1.0        1.0       
+13  fruity               1.0        1.0        1.0       
+14  fresh,               1.0        1.0        1.0       
+15  elegant,             1.0        1.0        1.0       
+16  sprightly            1.0        1.0        1.0       
+17  footprint.           1.0        1.0        1.0       
+
+N.  Termino              TF         IDF        TF-IDF    
+
+1   fruits               1.0        0.699      0.699     
+2   crisp                1.0        0.699      0.699     
+3   acidity              1.0        0.398      0.398     
+4   fresh                1.0        0.523      0.523     
+5   balanced             1.0        0.523      0.523     
+6   dry                  1.0        0.699      0.699     
+7   great                1.0        1.0        1.0       
+8   depth                1.0        1.0        1.0       
+9   flavor               1.0        1.0        1.0       
+10  apple                1.0        1.0        1.0       
+11  touch                1.0        1.0        1.0       
+12  spice.               1.0        1.0        1.0       
+13  texture.             1.0        1.0        1.0       
+14  drink                1.0        1.0        1.0       
+15  now.                 1.0        1.0        1.0       
+Matriz de similitud:
