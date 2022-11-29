@@ -1,4 +1,6 @@
-Calculando similitud...
+--RECOMENDADOR BASADO EN CONOCIMIENTO--
+ANALISIS DE CADA DOCUMENTO
+Documento 0
 
 N.  Termino              TF         IDF        TF-IDF    
 
@@ -13,13 +15,16 @@ N.  Termino              TF         IDF        TF-IDF
 9   palate               1.0        0.523      0.523     
 10  overly               1.0        1.0        1.0       
 11  expressive           1.0        1.0        1.0       
-12  offering             1.0        1.0        1.0       
+12  offer                1.0        0.699      0.699     
 13  unripened            1.0        1.0        1.0       
 14  apple                1.0        0.699      0.699     
 15  citrus               1.0        1.0        1.0       
 16  sage                 1.0        1.0        1.0       
 17  brisk                1.0        0.699      0.699     
 18  acidity              1.0        0.155      0.155     
+--------------------------------------------------------
+
+Documento 1
 
 N.  Termino              TF         IDF        TF-IDF    
 
@@ -31,13 +36,16 @@ N.  Termino              TF         IDF        TF-IDF
 6   structured           1.0        1.0        1.0       
 7   firm                 1.0        0.699      0.699     
 8   tannins              1.0        0.699      0.699     
-9   filled               1.0        1.0        1.0       
+9   fill                 1.0        1.0        1.0       
 10  juicy                1.0        1.0        1.0       
 11  berry                1.0        0.699      0.699     
 12  fruits               1.0        0.699      0.699     
 13  freshened            1.0        1.0        1.0       
 14  drinkable            1.0        1.0        1.0       
 15  2016                 1.0        1.0        1.0       
+--------------------------------------------------------
+
+Documento 2
 
 N.  Termino              TF         IDF        TF-IDF    
 
@@ -57,6 +65,9 @@ N.  Termino              TF         IDF        TF-IDF
 14  underscoring         1.0        1.0        1.0       
 15  stainlesssteel       1.0        1.0        1.0       
 16  fermented            1.0        1.0        1.0       
+--------------------------------------------------------
+
+Documento 3
 
 N.  Termino              TF         IDF        TF-IDF    
 
@@ -69,17 +80,20 @@ N.  Termino              TF         IDF        TF-IDF
 7   orange               1.0        1.0        1.0       
 8   blossom              1.0        1.0        1.0       
 9   start                1.0        1.0        1.0       
-10  bit                  1.0        1.0        1.0       
+10  bite                 1.0        1.0        1.0       
 11  opulent              1.0        1.0        1.0       
-12  notes                1.0        0.699      0.699     
+12  note                 1.0        0.699      0.699     
 13  honeydrizzled        1.0        1.0        1.0       
 14  guava                1.0        1.0        1.0       
 15  mango                1.0        1.0        1.0       
-16  giving               1.0        1.0        1.0       
+16  give                 1.0        1.0        1.0       
 17  slightly             1.0        1.0        1.0       
 18  astringent           1.0        1.0        1.0       
 19  semidry              1.0        1.0        1.0       
 20  finish               1.0        0.699      0.699     
+--------------------------------------------------------
+
+Documento 4
 
 N.  Termino              TF         IDF        TF-IDF    
 
@@ -100,6 +114,9 @@ N.  Termino              TF         IDF        TF-IDF
 15  hearty               1.0        1.0        1.0       
 16  winter               1.0        1.0        1.0       
 17  stew                 1.0        1.0        1.0       
+--------------------------------------------------------
+
+Documento 5
 
 N.  Termino              TF         IDF        TF-IDF    
 
@@ -128,6 +145,9 @@ N.  Termino              TF         IDF        TF-IDF
 23  plum                 1.0        1.0        1.0       
 24  fresh                1.0        0.398      0.398     
 25  grabby               1.0        1.0        1.0       
+--------------------------------------------------------
+
+Documento 6
 
 N.  Termino              TF         IDF        TF-IDF    
 
@@ -140,28 +160,34 @@ N.  Termino              TF         IDF        TF-IDF
 7   fresh                1.0        0.398      0.398     
 8   bright               1.0        1.0        1.0       
 9   informal             1.0        1.0        1.0       
-10  opens                1.0        1.0        1.0       
+10  open                 1.0        1.0        1.0       
 11  candied              1.0        1.0        1.0       
 12  white                1.0        1.0        1.0       
 13  pepper               1.0        1.0        1.0       
 14  savory               1.0        0.699      0.699     
 15  carry                1.0        1.0        1.0       
-16  balanced             1.0        0.523      0.523     
+16  balance              1.0        0.523      0.523     
 17  soft                 1.0        1.0        1.0       
+--------------------------------------------------------
+
+Documento 7
 
 N.  Termino              TF         IDF        TF-IDF    
 
-1   acidity              1.0        0.155      0.155     
-2   wine                 1.0        0.301      0.301     
-3   firm                 1.0        0.699      0.699     
-4   balanced             1.0        0.523      0.523     
-5   dry                  1.0        0.699      0.699     
-6   restrained           1.0        1.0        1.0       
-7   offers               1.0        1.0        1.0       
+1   offer                1.0        0.699      0.699     
+2   acidity              1.0        0.155      0.155     
+3   wine                 1.0        0.301      0.301     
+4   firm                 1.0        0.699      0.699     
+5   balance              1.0        0.523      0.523     
+6   dry                  1.0        0.699      0.699     
+7   restrain             1.0        1.0        1.0       
 8   spice                1.0        0.699      0.699     
 9   profusion            1.0        1.0        1.0       
 10  texture              1.0        0.699      0.699     
 11  food                 1.0        1.0        1.0       
+--------------------------------------------------------
+
+Documento 8
 
 N.  Termino              TF         IDF        TF-IDF    
 
@@ -170,18 +196,21 @@ N.  Termino              TF         IDF        TF-IDF
 3   fruity               1.0        0.699      0.699     
 4   wine                 1.0        0.301      0.301     
 5   flavors              1.0        0.398      0.398     
-6   notes                1.0        0.699      0.699     
+6   note                 1.0        0.699      0.699     
 7   fresh                1.0        0.398      0.398     
 8   savory               1.0        0.699      0.699     
 9   thyme                1.0        1.0        1.0       
 10  accent               1.0        1.0        1.0       
 11  sunnier              1.0        1.0        1.0       
-12  preserved            1.0        1.0        1.0       
+12  preserve             1.0        1.0        1.0       
 13  peach                1.0        1.0        1.0       
 14  offdry               1.0        1.0        1.0       
 15  elegant              1.0        1.0        1.0       
 16  sprightly            1.0        1.0        1.0       
 17  footprint            1.0        1.0        1.0       
+--------------------------------------------------------
+
+Documento 9
 
 N.  Termino              TF         IDF        TF-IDF    
 
@@ -190,7 +219,7 @@ N.  Termino              TF         IDF        TF-IDF
 3   fruits               1.0        0.699      0.699     
 4   crisp                1.0        0.699      0.699     
 5   fresh                1.0        0.398      0.398     
-6   balanced             1.0        0.523      0.523     
+6   balance              1.0        0.523      0.523     
 7   dry                  1.0        0.699      0.699     
 8   spice                1.0        0.699      0.699     
 9   texture              1.0        0.699      0.699     
@@ -199,4 +228,17 @@ N.  Termino              TF         IDF        TF-IDF
 12  flavor               1.0        1.0        1.0       
 13  touch                1.0        1.0        1.0       
 14  drink                1.0        1.0        1.0       
-Matriz de similitud:
+
+
+MATRIZ DE SIMILITUD
+       0      1      2      3      4      5      6      7      8      9
+0  1.000  0.002  0.002  0.030  0.000  0.043  0.082  0.060  0.070  0.050
+1  0.002  1.000  0.010  0.000  0.007  0.002  0.094  0.077  0.052  0.054
+2  0.002  0.010  1.000  0.072  0.007  0.048  0.002  0.014  0.026  0.053
+3  0.030  0.000  0.072  1.000  0.000  0.036  0.032  0.000  0.035  0.000
+4  0.000  0.007  0.007  0.000  1.000  0.028  0.000  0.010  0.007  0.000
+5  0.043  0.002  0.048  0.036  0.028  1.000  0.023  0.002  0.021  0.014
+6  0.082  0.094  0.002  0.032  0.000  0.023  1.000  0.037  0.058  0.048
+7  0.060  0.077  0.014  0.000  0.010  0.002  0.037  1.000  0.011  0.252
+8  0.070  0.052  0.026  0.035  0.007  0.021  0.058  0.011  1.000  0.016
+9  0.050  0.054  0.053  0.000  0.000  0.014  0.048  0.252  0.016  1.000
